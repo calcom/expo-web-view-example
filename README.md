@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+# An Expo app with a Cal.com WebView 
+
+
+https://github.com/calcom/expo-web-view-example/assets/8019099/e061cd0c-a8f3-4003-9ed4-68e80e11952f
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
