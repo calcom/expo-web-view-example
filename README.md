@@ -1,5 +1,21 @@
 # An Expo app with a Cal.com WebView 
 
+```javascript
+import { WebView } from "react-native-webview";
+
+export default function HomeScreen() {
+  return (
+    <WebView
+      source={{
+        uri: "https://cal.com/rick/get-rick-rolled/embed",
+      }}
+    />
+  );
+}
+```
+
+https://github.com/calcom/expo-web-view-example/blob/ea4bb6868d1b6c318318917cacf49cb75419a2a4/app/(tabs)/index.tsx#L7-L12
+
 
 https://github.com/calcom/expo-web-view-example/assets/8019099/e061cd0c-a8f3-4003-9ed4-68e80e11952f
 
